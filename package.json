@@ -12,7 +12,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.25"
+    "tinycolor2": "^1.6.0",
+    "vue": "^3.5.25",
+    "vue-color-wheel": "^0.1.1",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.2",
